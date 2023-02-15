@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\WindowsFormsList\WindowsFormsList\bin\Debug\WindowsFormsList.exe.config
+C:\Users\ucenik\source\repos\WindowsFormsList\WindowsFormsList\bin\Debug\WindowsFormsList.exe
+C:\Users\ucenik\source\repos\WindowsFormsList\WindowsFormsList\bin\Debug\WindowsFormsList.pdb
+C:\Users\ucenik\source\repos\WindowsFormsList\WindowsFormsList\obj\Debug\WindowsFormsList.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\WindowsFormsList\WindowsFormsList\obj\Debug\WindowsFormsList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\WindowsFormsList\WindowsFormsList\obj\Debug\WindowsFormsList.Form1.resources
+C:\Users\ucenik\source\repos\WindowsFormsList\WindowsFormsList\obj\Debug\WindowsFormsList.Properties.Resources.resources
+C:\Users\ucenik\source\repos\WindowsFormsList\WindowsFormsList\obj\Debug\WindowsFormsList.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\WindowsFormsList\WindowsFormsList\obj\Debug\WindowsFormsList.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\WindowsFormsList\WindowsFormsList\obj\Debug\WindowsFormsList.exe
+C:\Users\ucenik\source\repos\WindowsFormsList\WindowsFormsList\obj\Debug\WindowsFormsList.pdb
